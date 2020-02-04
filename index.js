@@ -28,4 +28,4 @@ var funkyFunction = function() {
 var theFunkening = funkyFunction();
 var theFunk = theFunkening();
 // theFunk;
-console.log(theFunk());
+console.log(theFunk);
